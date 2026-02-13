@@ -1,4 +1,4 @@
-# Diabetes-Prediction# 🩺 Diabetes Prediction Using Machine Learning
+# Diabetes Prediction Using Machine Learning
 
 This repository contains a complete machine learning pipeline to predict diabetes using the **PIMA Indians Diabetes Dataset**.  
 Multiple ML models are trained, evaluated, and compared using standard classification metrics.
